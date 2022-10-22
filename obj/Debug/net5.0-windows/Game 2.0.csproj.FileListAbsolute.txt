@@ -1,0 +1,41 @@
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.exe
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.deps.json
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.runtimeconfig.json
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.runtimeconfig.dev.json
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\ref\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.pdb
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.AssemblyReference.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.GenerateResource.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.AssemblyInfoInputs.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.AssemblyInfo.cs
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.CoreCompileInputs.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\ref\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.pdb
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.genruntimeconfig.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game_2._0.Form1.resources
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.AssemblyReference.cache
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game_2._0.Form1.resources
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.GenerateResource.cache
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.AssemblyInfoInputs.cache
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.AssemblyInfo.cs
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.CoreCompileInputs.cache
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\ref\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.pdb
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.exe
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.deps.json
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.runtimeconfig.json
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.runtimeconfig.dev.json
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\ref\Game 2.0.dll
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\bin\Debug\net5.0-windows\Game 2.0.pdb
+C:\Users\тест\source\repos\Game 2.0 — копия\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.genruntimeconfig.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Interop.MediaPlayer.dll
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Interop.WMPLib.dll
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game 2.0.csproj.ResolveComReference.cache
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game_2._0.Properties.Resources.resources
+C:\Users\тест\source\repos\Game 2.0\Game 2.0\obj\Debug\net5.0-windows\Game_2._0.Menu.resources
